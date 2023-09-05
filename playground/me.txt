@@ -1,0 +1,6 @@
+{{#user}}
+Name: Sumeet Ghumare
+Skills: Python, Machine learning, Data Science
+Email: sumeetghumare4@gmail.com
+{{/user}}
+
